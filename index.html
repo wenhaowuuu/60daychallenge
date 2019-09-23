@@ -30,7 +30,7 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
   if (error) throw error;
 
   weave(data, function(a, b) { return b[data.columns[6]] -  a[data.columns[6]]; });
-  x.domain(data.map(function(d) { return d.State; }));
+  x.domain(data.map(function(d) { return d.Name; }));
   y.domain([0, d3.max(data, function(d) { return d.total; })]);
   z.domain(data.columns.slice(1));
 
@@ -45,8 +45,8 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
       .attr("d", d3.arc()
           .innerRadius(function(d) { return y(d[0]); })
           .outerRadius(function(d) { return y(d[1]); })
-          .startAngle(function(d) { return x(d.data.State); })
-          .endAngle(function(d) { return x(d.data.State) + x.bandwidth(); })
+          .startAngle(function(d) { return x(d.data.Name); })
+          .endAngle(function(d) { return x(d.data.Name) + x.bandwidth(); })
           .padAngle(0.01)
           .padRadius(innerRadius));
 
@@ -55,15 +55,15 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
     .data(data)
     .enter().append("g")
       .attr("text-anchor", "middle")
-      .attr("transform", function(d) { return "rotate(" + ((x(d.State) + x.bandwidth() / 2) * 180 / Math.PI - 90) + ")translate(" + innerRadius + ",0)"; });
+      .attr("transform", function(d) { return "rotate(" + ((x(d.Name) + x.bandwidth() / 2) * 180 / Math.PI - 90) + ")translate(" + innerRadius + ",0)"; });
 
   label.append("line")
       .attr("x2", -5)
       .attr("stroke", "#000");
 
   label.append("text")
-      .attr("transform", function(d) { return (x(d.State) + x.bandwidth() / 2 + Math.PI / 2) % (2 * Math.PI) < Math.PI ? "rotate(90)translate(0,16)" : "rotate(-90)translate(0,-9)"; })
-      .text(function(d) { return d.State; });
+      .attr("transform", function(d) { return (x(d.Name) + x.bandwidth() / 2 + Math.PI / 2) % (2 * Math.PI) < Math.PI ? "rotate(90)translate(0,16)" : "rotate(-90)translate(0,-9)"; })
+      .text(function(d) { return d.Name; });
 
   var yAxis = g.append("g")
       .attr("text-anchor", "end");

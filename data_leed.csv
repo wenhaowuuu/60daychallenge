@@ -3,63 +3,40 @@ KIC,0,5,10,32,18
 Shanghai Taipingqiao,0,5,9,33,22
 Foshan Lingnan Tiandi,0,6,16,29,22
 Treasure Island,4,5,20,36,22
-Parkmerced,0,0,0,0,0
-Berryessa BART,0,0,0,0,0
-Chengdu Aerotropolis,0,0,0,0,0
-Fuzhou Waterfront New City,0,0,0,0,0
-SHOT Line 14,0,0,0,0,0
-Tongren,0,0,0,0,0
-Nanjng Jiangbei,0,0,0,0,0
-Baoshan Nanda,0,0,0,0,0
-Shenzhen Futian,0,0,0,0,0
-Concord Base Reuse Project,0,0,0,0,0
-Point Molate Conceptual Master Plan,0,0,0,0,0
-Compton Artesia Station Specific Plan,0,0,0,0,0
-Cedar Creek Waterway,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-Riverdale Park,0,0,0,0,0
-Capitol Crossing,0,0,0,0,0
-Downtown Colorado Springs,0,0,0,0,0
-Raleigh Civic Campus,0,0,0,0,17
-Seat Pleasant Smart City MP,0,0,0,0,0
-Charlotte 7th and Tryon,0,0,0,0,0
-Armed Forces Retirement Home,0,0,0,0,0
-Ignite Nashville,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-Milano Sesto,0,0,0,0,0
-Neom,0,0,0,0,0
-Alaro City,0,0,0,0,0
-Tushino,0,0,0,0,0
-Jeddah Township,0,0,0,0,0
-NDGM,0,0,0,0,0
-King Salman Park,0,0,0,0,0
-Tatu City CBD,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-SAMPLE,0,0,0,0,0
-Cook Cove,0,0,0,0,0
-Bonifacio East,0,0,0,0,0
-KHI,0,0,0,0,0
-Bandar Malaysia,0,0,0,0,0
-Thu Duc,0,0,0,0,0
+Parkmerced,4,0,0,0,4
+Berryessa BART,3,12,31,12,2
+Chengdu Aerotropolis,4,0,0,0,24
+Fuzhou Waterfront New City,1,12,0,0,16
+SHOT Line 14,2,0,12,0,7
+Tongren,3,67,0,12,7
+Nanjng Jiangbei,4,0,12,0,35
+Baoshan Nanda,4,6,6,0,3
+Shenzhen Futian,5,0,44,0,7
+Concord Base Reuse Project,6,21,0,23,16
+Point Molate Conceptual Master Plan,2,0,7,14,7
+Compton Artesia Station Specific Plan,33,7,0,0,35
+Cedar Creek Waterway,3,0,0,15,16
+Riverdale Park,5,8,32,0,7
+Capitol Crossing,12,0,0,0,56
+Downtown Colorado Springs,0,33,0,0,46
+Raleigh Civic Campus,4,8,8,0,16
+Seat Pleasant Smart City MP,0,8,0,12,44
+Charlotte 7th and Tryon,4,0,31,0,23
+Armed Forces Retirement Home,44,0,0,11,7
+Ignite Nashville,3,0,0,8,6
+Milano Sesto,0,0,34,8,15
+Neom,7,5,12,64,12
+Alaro City,8,0,0,0,0
+Tushino,33,23,0,34,23
+Jeddah Township,2,0,0,0,14
+NDGM,6,12,0,0,0
+King Salman Park,7,0,0,0,12
+Tatu City CBD,22,0,0,32,0
+Cook Cove,6,0,12,55,0
+Bonifacio East,7,0,0,0,0
+KHI,5,0,15,0,12
+Bandar Malaysia,11,12,12,0,0
+Thu Duc,22,0,0,25,13
 OCT North,0,0,0,0,0
-Nanchang VR,0,0,0,0,0
-TianAn,0,0,0,0,0
+Nanchang VR,33,43,12,0,34
+TianAn,0,0,0,0,24
