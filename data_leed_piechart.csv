@@ -1,42 +1,42 @@
 id,order,score,weight,color,label
-FIS,1.1,59,0.2,#9E0041,KIC
-MAR,1.3,24,0.2,#C32F4B,Shanghai Taipingqiao
-AO,2,98,0.2,#E1514B,Foshan Lingnan Tiandi
-NP,3,60,0.2,#F47245,Treasure Island
-CS,4,74,0.2,#FB9F59,Parkmerced
-CP,5,70,0.2,#FEC574,Berryessa BART
-TR,6,42,0.2,#FAE38C,Chengdu Aerotropolis
-LIV,7.1,77,0.2,#EAF195,Fuzhou Waterfront New City
-ECO,7.3,88,0.2,#C7E89E,SHOT Line 14
-ICO,8.1,60,0.2,#9CD6A4,Tongren
-LSP,8.3,65,0.2,#6CC4A4,Nanjng Jiangbei
-CW,9,71,0.2,#4D9DB4,Baoshan Nanda
-HAB,10.1,88,0.2,#4776B4,Shenzhen Futian
-SPP,10.3,83,0.2,#5E4EA1,Concord Base Reuse Project
-FIS,1.1,59,0.2,#9E0041,Point Molate Conceptual Master Plan
-MAR,1.3,24,0.2,#C32F4B,Compton Artesia Station Specific Plan
-AO,2,98,0.2,#E1514B,Cedar Creek Waterway
-NP,3,60,0.2,#F47245,Riverdale Park
-CS,4,74,0.2,#FB9F59,Capitol Crossing
-CP,5,70,0.2,#FEC574,Downtown Colorado Springs
-TR,6,42,0.2,#FAE38C,Raleigh Civic Campus
-LIV,7.1,77,0.2,#EAF195,Seat Pleasant Smart City MP
-ECO,7.3,88,0.2,#C7E89E,Charlotte 7th and Tryon
-ICO,8.1,60,0.2,#9CD6A4,Armed Forces Retirement Home
-LSP,8.3,65,0.2,#6CC4A4,Ignite Nashville
-CW,9,71,0.2,#4D9DB4,Milano Sesto
-HAB,10.1,88,0.2,#4776B4,Neom
-SPP,10.3,83,0.2,#5E4EA1,Alaro City
-FIS,1.1,59,0.2,#9E0041,Tushino
-MAR,1.3,24,0.2,#C32F4B,Jeddah Township
-AO,2,98,0.2,#E1514B,NDGM
-NP,3,60,0.2,#F47245,King Salman Park
-CS,4,74,0.2,#FB9F59,Tatu City CBD
-CP,5,70,0.2,#FEC574,Cook Cove
-TR,6,42,0.2,#FAE38C,Bonifacio East
-LIV,7.1,77,0.2,#EAF195,KHI
-ECO,7.3,88,0.2,#C7E89E,Bandar Malaysia
-ICO,8.1,60,0.2,#9CD6A4,Thu Duc
-LSP,8.3,65,0.2,#6CC4A4,OCT North
-CW,9,71,0.2,#4D9DB4,Nanchang VR
-HAB,10.1,88,0.2,#4776B4,TianAn
+KIC,1.1,59,0.2,#9E0041,KIC
+Shanghai Taipingqiao,1.3,24,0.2,#C32F4B,Shanghai Taipingqiao
+Foshan Lingnan Tiandi,2,98,0.2,#E1514B,Foshan Lingnan Tiandi
+Treasure Island,3,60,0.2,#F47245,Treasure Island
+Parkmerced,4,74,0.2,#FB9F59,Parkmerced
+Berryessa BART,5,70,0.2,#FEC574,Berryessa BART
+Chengdu Aerotropolis,6,42,0.2,#FAE38C,Chengdu Aerotropolis
+Fuzhou Waterfront New City,7.1,77,0.2,#EAF195,Fuzhou Waterfront New City
+SHOT Line 14,7.3,88,0.2,#C7E89E,SHOT Line 14
+Tongren,8.1,60,0.2,#9CD6A4,Tongren
+Nanjng Jiangbei,8.3,65,0.2,#6CC4A4,Nanjng Jiangbei
+Baoshan Nanda,9,71,0.2,#4D9DB4,Baoshan Nanda
+Shenzhen Futian,10.1,88,0.2,#4776B4,Shenzhen Futian
+Concord Base Reuse Project,10.3,83,0.2,#5E4EA1,Concord Base Reuse Project
+Point Molate Conceptual Master Plan,1.1,59,0.2,#9E0041,Point Molate Conceptual Master Plan
+Compton Artesia Station Specific Plan,1.3,24,0.2,#C32F4B,Compton Artesia Station Specific Plan
+Cedar Creek Waterway,2,98,0.2,#E1514B,Cedar Creek Waterway
+Riverdale Park,3,60,0.2,#F47245,Riverdale Park
+Capitol Crossing,4,74,0.2,#FB9F59,Capitol Crossing
+Downtown Colorado Springs,5,70,0.2,#FEC574,Downtown Colorado Springs
+Raleigh Civic Campus,6,42,0.2,#FAE38C,Raleigh Civic Campus
+Seat Pleasant Smart City MP,7.1,77,0.2,#EAF195,Seat Pleasant Smart City MP
+Charlotte 7th and Tryon,7.3,88,0.2,#C7E89E,Charlotte 7th and Tryon
+Armed Forces Retirement Home,8.1,60,0.2,#9CD6A4,Armed Forces Retirement Home
+Ignite Nashville,8.3,65,0.2,#6CC4A4,Ignite Nashville
+Milano Sesto,9,71,0.2,#4D9DB4,Milano Sesto
+Neom,10.1,88,0.2,#4776B4,Neom
+Alaro City,10.3,83,0.2,#5E4EA1,Alaro City
+Tushino,1.1,59,0.2,#9E0041,Tushino
+Jeddah Township,1.3,24,0.2,#C32F4B,Jeddah Township
+NDGM,2,98,0.2,#E1514B,NDGM
+King Salman Park,3,60,0.2,#F47245,King Salman Park
+Tatu City CBD,4,74,0.2,#FB9F59,Tatu City CBD
+Cook Cove,5,70,0.2,#FEC574,Cook Cove
+Bonifacio East,6,42,0.2,#FAE38C,Bonifacio East
+KHI,7.1,77,0.2,#EAF195,KHI
+Bandar Malaysia,7.3,88,0.2,#C7E89E,Bandar Malaysia
+Thu Duc,8.1,60,0.2,#9CD6A4,Thu Duc
+OCT North,8.3,65,0.2,#6CC4A4,OCT North
+Nanchang VR,9,71,0.2,#4D9DB4,Nanchang VR
+TianAn,10.1,88,0.2,#4776B4,TianAn
