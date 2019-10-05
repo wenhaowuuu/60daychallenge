@@ -1,66 +1,66 @@
-Name,SOM Market Region,"LEED ND 
-PROJECT TOTAL SCORE"
-KIC,ASEAN,0
-Shanghai Taipingqiao,ASEAN,35
-Foshan Lingnan Tiandi,ASEAN,0
-Treasure Island,ASEAN,0
-Parkmerced,Australia,0
-Berryessa BART,Central Asia,32
-Chengdu Aerotropolis,China,65
-Fuzhou Waterfront New City,China,69
-SHOT Line 14,China,73
-Tongren,China,38
-Nanjng Jiangbei,China,30
-Baoshan Nanda,China,13
-Shenzhen Futian,China,52
-Concord Base Reuse Project,China,50
-Point Molate Conceptual Master Plan,China,0
-Compton Artesia Station Specific Plan,China,0
-Cedar Creek Waterway,China,45
-Riverdale Park,China,0
-Capitol Crossing,China,0
-Downtown Colorado Springs,China,0
-Raleigh Civic Campus,China,0
-Seat Pleasant Smart City MP,China,0
-Charlotte 7th and Tryon,China,0
-Armed Forces Retirement Home,China,0
-Ignite Nashville,China,0
-Milano Sesto,Europe,55
-Neom,Europe,46
-Alaro City,Europe,56
-Tushino,Europe,68
-Jeddah Township,MENA,26
-NDGM,MENA,1
-King Salman Park,MENA,25
-Tatu City CBD,MENA,21
-Cook Cove,MENA,19
-Bonifacio East,MENA,35
-KHI,MENA,25
-Bandar Malaysia,US,87
-Thu Duc,US,55
-OCT North,US,0
-Nanchang VR,US,0
-TianAn,US,0
-,US,0
-,US,0
-,US,0
-,US,49
-,US,44
-,US,53
-,US,0
-,US,0
-,US,0
-,US,0
-,US,17
-,US,0
-,US,0
-,US,0
-,US,0
-,US,64
-,US,61
-,US,53
-,US,61
-,US,60
-,US,0
-,China,0
-,China,0
+Name,"LEED ND 
+PROJECT TOTAL SCORE",SOM Market Region
+KIC,0,ASEAN
+Shanghai Taipingqiao,35,ASEAN
+Foshan Lingnan Tiandi,0,ASEAN
+Treasure Island,0,ASEAN
+Parkmerced,0,Australia
+Berryessa BART,32,Central Asia
+Chengdu Aerotropolis,65,China
+Fuzhou Waterfront New City,69,China
+SHOT Line 14,73,China
+Tongren,38,China
+Nanjng Jiangbei,30,China
+Baoshan Nanda,13,China
+Shenzhen Futian,52,China
+Concord Base Reuse Project,50,China
+Point Molate Conceptual Master Plan,0,China
+Compton Artesia Station Specific Plan,0,China
+Cedar Creek Waterway,45,China
+Riverdale Park,0,China
+Capitol Crossing,0,China
+Downtown Colorado Springs,0,China
+Raleigh Civic Campus,0,China
+Seat Pleasant Smart City MP,0,China
+Charlotte 7th and Tryon,0,China
+Armed Forces Retirement Home,0,China
+Ignite Nashville,0,China
+Milano Sesto,55,Europe
+Neom,46,Europe
+Alaro City,56,Europe
+Tushino,68,Europe
+Jeddah Township,26,MENA
+NDGM,1,MENA
+King Salman Park,25,MENA
+Tatu City CBD,21,MENA
+Cook Cove,19,MENA
+Bonifacio East,35,MENA
+KHI,25,MENA
+Bandar Malaysia,87,US
+Thu Duc,55,US
+OCT North,0,US
+Nanchang VR,0,US
+TianAn,0,US
+,0,US
+,0,US
+,0,US
+,49,US
+,44,US
+,53,US
+,0,US
+,0,US
+,0,US
+,0,US
+,17,US
+,0,US
+,0,US
+,0,US
+,0,US
+,64,US
+,61,US
+,53,US
+,61,US
+,60,US
+,0,US
+,0,China
+,0,China

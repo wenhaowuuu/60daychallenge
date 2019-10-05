@@ -42,12 +42,13 @@ var svg = d3.select("svg"),
         // .domain([0,14000]);
 
     var z = d3.scaleOrdinal()
-        .range(["#ff7e67", "#c0ffb3", "#52de97", "#3c9d9b", "#394a6d"]);
+        // .range(["#ff7e67", "#c0ffb3", "#52de97", "#3c9d9b", "#394a6d"]);
+        .range(["#ff7e67"]);
 
 
 
     d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_leed_region.csv", function(d, i, columns) {
-      for (i = 1, t = 0; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]];
+      for (i = 1, t = 0; i < 2; ++i) t += d[columns[i]] = +d[columns[i]];
       d.total = t;
       return d;
     }, function(error, data) {
