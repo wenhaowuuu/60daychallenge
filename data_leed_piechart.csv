@@ -1,65 +1,69 @@
-id,region,score,weight,color,label
-Bonifacio East,ASEAN,0,1,#C0392B,Bonifacio East
-KHI District 2,ASEAN,35,1,#C0392B,KHI District 2
-Bandar Malaysia,ASEAN,0,1,#C0392B,Bandar Malaysia
-Thu Duc,ASEAN,0,1,#C0392B,Thu Duc
-Cook Cove,Australia,0,1,#BB8FCE,Cook Cove
-Turkistan,Central Asia,32,1,#F7DC6F,Turkistan
-KIC,China,6,1,#E74C3C,KIC
-Shanghai Xintiandi,China,6,1,#E74C3C,Shanghai Xintiandi
-Foshan Tiandi,China,65,1,#E74C3C,Foshan Tiandi
-Fuzhou CBD,China,69,1,#E74C3C,Fuzhou CBD
-Nanjing Tongren,China,73,1,#E74C3C,Nanjing Tongren
-Baoshan Nanda,China,38,1,#E74C3C,Baoshan Nanda
-Wuhan Hanyang,China,30,1,#E74C3C,Wuhan Hanyang
-Zhengzhou FinTech,China,13,1,#E74C3C,Zhengzhou FinTech
-Xiong'An,China,52,1,#E74C3C,Xiong'An
-Guangzhou Nansha,China,50,1,#E74C3C,Guangzhou Nansha
-OCT North,China,6,1,#E74C3C,OCT North
-Nanchang VR,China,6,1,#E74C3C,Nanchang VR
-TianAn Caobao Road Shanghai,China,45,1,#E74C3C,TianAn Caobao Road Shanghai
-Zhangjiang Science&Tech City,China,6,1,#E74C3C,Zhangjiang Science&Tech City
-SHOT Line 14,China,6,1,#E74C3C,SHOT Line 14
-Chengdu Aerotropolis Core Area (Partial),China,6,1,#E74C3C,Chengdu Aerotropolis Core Area (Partial)
-City Balcony,China,6,1,#E74C3C,City Balcony
-Liangjiang CBD,China,6,1,#E74C3C,Liangjiang CBD
-Lize CBD,China,6,1,#E74C3C,Lize CBD
-Wuhan Tiandi,China,6,1,#E74C3C,Wuhan Tiandi
-Daming Lake,China,6,1,#E74C3C,Daming Lake
-Milan Sesto,Europe,55,1,#48C9B0,Milan Sesto
-Tushino,Europe,46,1,#48C9B0,Tushino
-NCGM,Europe,56,1,#48C9B0,NCGM
-Charenton,Europe,68,1,#48C9B0,Charenton
-Al Furdha,MENA,26,1,#F39C12,Al Furdha
-Lakeside,MENA,1,1,#F39C12,Lakeside
-Neomina,MENA,25,1,#F39C12,Neomina
-Alaro,MENA,21,1,#F39C12,Alaro
-Jeddah Township,MENA,19,1,#F39C12,Jeddah Township
-KSP,MENA,35,1,#F39C12,KSP
-Tatu,MENA,25,1,#F39C12,Tatu
-Treasure Island,US,87,1,#3498DB,Treasure Island
-Parkmerced,US,55,1,#3498DB,Parkmerced
-Berryessa BART,US,6,1,#3498DB,Berryessa BART
-Concord Base,US,6,1,#3498DB,Concord Base
-Cedar Creek,US,6,1,#3498DB,Cedar Creek
-Sunset,US,6,1,#3498DB,Sunset
-Olympia,US,55,1,#3498DB,Olympia
-The 78,US,46,1,#3498DB,The 78
-Lincoln Yards North,US,56,1,#3498DB,Lincoln Yards North
-Michael Reese,US,68,1,#3498DB,Michael Reese
-Chicago Lakeside,US,26,1,#3498DB,Chicago Lakeside
-AAS,US,1,1,#3498DB,AAS
-U of Delaware,US,25,1,#3498DB,U of Delaware
-Riverdale Park,US,21,1,#3498DB,Riverdale Park
-Capitol Crossing,US,19,1,#3498DB,Capitol Crossing
-Downtown Colorado Springs,US,6,1,#3498DB,Downtown Colorado Springs
-Raleigh Civic Campus,US,6,1,#3498DB,Raleigh Civic Campus
-Seat Pleasant Smart City MP,US,6,1,#3498DB,Seat Pleasant Smart City MP
-Charlotte 7th and Tryon,US,55,1,#3498DB,Charlotte 7th and Tryon
-Armed Forces Retirement Home,US,46,1,#3498DB,Armed Forces Retirement Home
-Ignite Nashville,US,56,1,#3498DB,Ignite Nashville
-Cornell Tech,US,68,1,#3498DB,Cornell Tech
-Denver Union,US,26,1,#3498DB,Denver Union
-Princeton - Lake,US,1,1,#3498DB,Princeton - Lake
-Hoboken Terminal,US,25,1,#3498DB,Hoboken Terminal
-30th St Station,US,21,1,#3498DB,30th St Station
+id,region,score,weight,color,label,climate_zone,climate_type,area,opsp,GFA,FAR,pop,job
+Bonifacio East,ASEAN,0,1,#C0392B,Bonifacio East,3A,(Warm/Humid),487278,54552,0,0,3037,14703
+KHI District 2,ASEAN,35,1,#C0392B,KHI District 2,3A,(Warm/Humid),520000,44000,1600000,3.34,0,0
+Bandar Malaysia,ASEAN,0,1,#C0392B,Bandar Malaysia,2A,(Hot/Humid),639000,68362,1502171,3.41,14924,46651.77
+Thu Duc,ASEAN,0,1,#C0392B,Thu Duc,3C,(Warm/Marine),1590000,0,0,0,0,0
+Cook Cove,Australia,0,1,#BB8FCE,Cook Cove,3C,(Warm/Marine),615122,275186.2,1600100,0,14054,1500
+Turkistan,Central Asia,32,1,#F7DC6F,Turkistan,3C,(Warm/Marine),315320,29629,388102,0,29759,14000
+KIC,China,6,1,#E74C3C,KIC,2A,(Hot/Humid),10000000,2550000,15840700,3.09,146934,0
+Shanghai Xintiandi,China,6,1,#E74C3C,Shanghai Xintiandi,3A,Warm/Humid,102000,10000,126205,1.237303922,1164,500
+Foshan Tiandi,China,65,1,#E74C3C,Foshan Tiandi,3A,(Warm/Humid),6102500,2513300,5170000,2.57,81140,91021
+Fuzhou CBD,China,69,1,#E74C3C,Fuzhou CBD,,,534000,36830,2358809,4.1,30373,
+Nanjing Tongren,China,73,1,#E74C3C,Nanjing Tongren,4A,Mixed Humid,,,,,,
+Baoshan Nanda,China,38,1,#E74C3C,Baoshan Nanda,3B,(Warm/Dry),571416,62322,3662680,6.409831016,3892.5,7800
+Wuhan Hanyang,China,30,1,#E74C3C,Wuhan Hanyang,3A,(Warm/Humid),1464686.103,1338676,24100,0,0,0
+Zhengzhou FinTech,China,13,1,#E74C3C,Zhengzhou FinTech,XX,XX,0,0,0,0,0,0
+Xiong'An,China,52,1,#E74C3C,Xiong'An,XX,XX,764000,115000,2674000,3.5,18286,36606
+Guangzhou Nansha,China,50,1,#E74C3C,Guangzhou Nansha,5A,XX,0,0,0,0,0,0
+OCT North,China,6,1,#E74C3C,OCT North,5A,(Cool/Humid),127524,46197,801253,6.28,TBD,TBD
+Nanchang VR,China,6,1,#E74C3C,Nanchang VR,XX,XX,0,0,0,0,0,0
+TianAn Caobao Road Shanghai,China,45,1,#E74C3C,TianAn Caobao Road Shanghai,5A,(Cool/Humid),3508600,526109.9155,1241700,5,TBD,TBD
+Zhangjiang Science&Tech City,China,6,1,#E74C3C,Zhangjiang Science&Tech City,2A,Hot Humid,76316,51042,325160,4.5,TBD,TBD
+SHOT Line 14,China,6,1,#E74C3C,SHOT Line 14,XX,XX,0,0,0,0,0,0
+Chengdu Aerotropolis Core Area (Partial),China,6,1,#E74C3C,Chengdu Aerotropolis Core Area (Partial),6B,Dry,8077525,0,798966,0,0,0
+City Balcony,China,6,1,#E74C3C,City Balcony,XX,XX,0,0,0,0,0,0
+Liangjiang CBD,China,6,1,#E74C3C,Liangjiang CBD,XX,XX,0,0,0,0,0,0
+Lize CBD,China,6,1,#E74C3C,Lize CBD,4A,Mixed Humid,25084,0,0,0,0,TBD
+Wuhan Tiandi,China,6,1,#E74C3C,Wuhan Tiandi,5B,Cool Dry,297290,0,0,0,TBD,TBD
+Daming Lake,China,6,1,#E74C3C,Daming Lake,4A,Warm/Humid,16187,0,0,0,0,TBD
+Milan Sesto,Europe,55,1,#48C9B0,Milan Sesto,4A,Mixed Humid,2589988,0,0,0,5000,TBD
+Tushino,Europe,46,1,#48C9B0,Tushino,3A,Warm/Humid,29729,0,0,0,TBD,TBD
+NCGM,Europe,56,1,#48C9B0,NCGM,4A,Mixed Humid,323749,0,0,0,TBD,TBD
+Charenton,Europe,68,1,#48C9B0,Charenton,4C,Mixed Marine,129499,0,0,0,TBD,TBD
+Al Furdha,MENA,26,1,#F39C12,Al Furdha,4A,Mixed Humid,48562.3,8093,74322.432,1.530455353,8000,28000
+Lakeside,MENA,1,1,#F39C12,Lakeside,5B,Cool Dry,157935.168,40468.6,464515.2,2.62,6000,0
+Neomina,MENA,25,1,#F39C12,Neomina,1B,Very Hot Dry,254976,31886,545649,2.14,0,0
+Alaro,MENA,21,1,#F39C12,Alaro,4A,Mixed Humid,809371,323749,93832,0.35,1000,0
+Jeddah Township,MENA,19,1,#F39C12,Jeddah Township,7,Very Cold,3070382.33,660000,1069000,1,0,0
+KSP,MENA,35,1,#F39C12,KSP,2B,Dry,336000,44000,470400,1.4,0,0
+Tatu,MENA,25,1,#F39C12,Tatu,4A,Mixed Humid,62105.868,8361.2736,213769.895,3.44202411,0,0
+Treasure Island,US,87,1,#3498DB,Treasure Island,4A,Mixed Humid,708200,161874,1687119.206,2.382263776,0,40000
+Parkmerced,US,55,1,#3498DB,Parkmerced,4,Mixed - Humid / Dry,713370,458760,766967,3.01,,
+Berryessa BART,US,6,1,#3498DB,Berryessa BART,1,Very Hot – Humid / Dry,30296179,12429249,12698078.2,0.71,67700,52930
+Concord Base,US,6,1,#3498DB,Concord Base,1,Very Hot – Humid / Dry,548100,207749,230083,0.68,2287.97,
+Cedar Creek,US,6,1,#3498DB,Cedar Creek,6,Cold - Humid / Dry,622566,236138,1020370,2.64,,
+Sunset,US,6,1,#3498DB,Sunset,1,Very Hot – Humid / Dry,4402728,1901192,3247475,1.3,46281,
+Olympia,US,55,1,#3498DB,Olympia,4,Mixed - Humid / Dry,225181,190420,325656,9.37,,
+The 78,US,46,1,#3498DB,The 78,1,Very Hot – Humid / Dry,3414642,634390,1534853.16,0.55,15782.63,
+Lincoln Yards North,US,56,1,#3498DB,Lincoln Yards North,1,Very Hot – Humid / Dry,634000,248603,1151260,2.99,,
+Michael Reese,US,68,1,#3498DB,Michael Reese,4,Mixed - Humid / Dry,130166,49596,490381.7,6.09,,
+Chicago Lakeside,US,26,1,#3498DB,Chicago Lakeside,3A,(Warm/Humid),368100,125700,0,4.5,12875,0
+AAS,US,1,1,#3498DB,AAS,"1A
+",(Very Hot/Humid),596300,62200,0,8.3,52339,0
+U of Delaware,US,25,1,#3498DB,U of Delaware,"1A
+",(Very Hot/Humid),3540000,716000,0,1.7,-,0
+Riverdale Park,US,21,1,#3498DB,Riverdale Park,"1A
+",(Very Hot/Humid),4860000,850000,0,12.2,164540,0
+Capitol Crossing,US,19,1,#3498DB,Capitol Crossing,"1A
+",(Very Hot/Humid),463600,45900,0,4.5,19460,0
+Downtown Colorado Springs,US,6,1,#3498DB,Downtown Colorado Springs,2A,(Hot/Humid),6475000,2751000,0,4.1,20228,0
+Raleigh Civic Campus,US,6,1,#3498DB,Raleigh Civic Campus,3A,(Warm/Humid),9315620,3788650,0,2,41276,0
+Seat Pleasant Smart City MP,US,6,1,#3498DB,Seat Pleasant Smart City MP,3A,(Warm/Humid),179100,44000,0,3,7682,0
+Charlotte 7th and Tryon,US,55,1,#3498DB,Charlotte 7th and Tryon,XX,XX,0,0,0,0,0,0
+Armed Forces Retirement Home,US,46,1,#3498DB,Armed Forces Retirement Home,3A,(Warm/Humid),0,0,0,0,0,0
+Ignite Nashville,US,56,1,#3498DB,Ignite Nashville,XX,XX,0,0,0,0,0,0
+Cornell Tech,US,68,1,#3498DB,Cornell Tech,XX,XX,0,0,0,0,0,0
+Denver Union,US,26,1,#3498DB,Denver Union,XX,XX,0,0,0,0,0,0
+Princeton - Lake,US,1,1,#3498DB,Princeton - Lake,XX,XX,0,0,0,0,0,0
+Hoboken Terminal,US,25,1,#3498DB,Hoboken Terminal,XX,XX,0,0,0,0,0,0
+30th St Station,US,21,1,#3498DB,30th St Station,4C,Mixed Marine,2550000,905250,2460200,2.3,300000,TBD

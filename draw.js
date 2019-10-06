@@ -12,7 +12,10 @@ var tip = d3.tip()
   .offset([0, 0])
   .html(function(d) {
     return d.data.label + ": <span style='color:orangered'>" + d.data.score + "</span>" +
-           "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>";
+           "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>" +
+           "<br> Climate Type" + ": <span style='color:lightgreen'>" + d.data.climate_type + "</span>";
+           // "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>" +
+           // "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>" +;
   });
 
 var arc = d3.svg.arc()
@@ -64,6 +67,30 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
       .attr("stroke", "gray")
       .attr("class", "outlineArc")
       .attr("d", outlineArc);
+
+//trying the enabling clicking-rotating activity
+
+      // arc.append("path")
+      //     .attr("d", path)
+      //     .attr("fill", function(d) { return d.data.color; })
+      //     .on("click",function(d) {
+      //       // The amount we need to rotate:
+      //       var rotate = 180-(d.startAngle + d.endAngle)/2 / Math.PI * 180;
+      //
+      //       // Transition the pie chart
+      //       g.transition()
+      //         .attr("transform",  "translate(" + width / 2 + "," + height / 2 + ") rotate(" + rotate + ")")
+      //         .duration(1000);
+      //
+      //      // Τransition the labels:
+      //      text.transition()
+      //        .attr("transform", function(dd) {
+      //          return "translate(" + label.centroid(dd) + ") rotate(" + (-rotate) + ")"; })
+      //        .duration(1000);
+      //
+      //     });
+
+
 
 
   // calculate the weighted mean score
