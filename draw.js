@@ -41,6 +41,7 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
     d.weight = +d.weight;
     d.score  = +d.score;
     d.width  = +d.weight;
+    d.region  = +d.region;
     d.label  =  d.label;
   });
   // for (var i = 0; i < data.score; i++) { console.log(data[i].id) }
