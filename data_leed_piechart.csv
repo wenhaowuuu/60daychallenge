@@ -1,42 +1,42 @@
-id,order,score,weight,color,label
-KIC,1.1,59,0.2,#9E0041,KIC
-Shanghai Taipingqiao,1.3,24,0.2,#C32F4B,Shanghai Taipingqiao
-Foshan Lingnan Tiandi,2,98,0.2,#E1514B,Foshan Lingnan Tiandi
-Treasure Island,3,60,0.2,#F47245,Treasure Island
-Parkmerced,4,74,0.2,#FB9F59,Parkmerced
-Berryessa BART,5,70,0.2,#FEC574,Berryessa BART
-Chengdu Aerotropolis,6,42,0.2,#FAE38C,Chengdu Aerotropolis
-Fuzhou Waterfront New City,7.1,77,0.2,#EAF195,Fuzhou Waterfront New City
-SHOT Line 14,7.3,88,0.2,#C7E89E,SHOT Line 14
-Tongren,8.1,60,0.2,#9CD6A4,Tongren
-Nanjng Jiangbei,8.3,65,0.2,#6CC4A4,Nanjng Jiangbei
-Baoshan Nanda,9,71,0.2,#4D9DB4,Baoshan Nanda
-Shenzhen Futian,10.1,88,0.2,#4776B4,Shenzhen Futian
-Concord Base Reuse Project,10.3,83,0.2,#5E4EA1,Concord Base Reuse Project
-Point Molate Conceptual Master Plan,1.1,59,0.2,#9E0041,Point Molate Conceptual Master Plan
-Compton Artesia Station Specific Plan,1.3,24,0.2,#C32F4B,Compton Artesia Station Specific Plan
-Cedar Creek Waterway,2,98,0.2,#E1514B,Cedar Creek Waterway
-Riverdale Park,3,60,0.2,#F47245,Riverdale Park
-Capitol Crossing,4,74,0.2,#FB9F59,Capitol Crossing
-Downtown Colorado Springs,5,70,0.2,#FEC574,Downtown Colorado Springs
-Raleigh Civic Campus,6,42,0.2,#FAE38C,Raleigh Civic Campus
-Seat Pleasant Smart City MP,7.1,77,0.2,#EAF195,Seat Pleasant Smart City MP
-Charlotte 7th and Tryon,7.3,88,0.2,#C7E89E,Charlotte 7th and Tryon
-Armed Forces Retirement Home,8.1,60,0.2,#9CD6A4,Armed Forces Retirement Home
-Ignite Nashville,8.3,65,0.2,#6CC4A4,Ignite Nashville
-Milano Sesto,9,71,0.2,#4D9DB4,Milano Sesto
-Neom,10.1,88,0.2,#4776B4,Neom
-Alaro City,10.3,83,0.2,#5E4EA1,Alaro City
-Tushino,1.1,59,0.2,#9E0041,Tushino
-Jeddah Township,1.3,24,0.2,#C32F4B,Jeddah Township
-NDGM,2,98,0.2,#E1514B,NDGM
-King Salman Park,3,60,0.2,#F47245,King Salman Park
-Tatu City CBD,4,74,0.2,#FB9F59,Tatu City CBD
-Cook Cove,5,70,0.2,#FEC574,Cook Cove
-Bonifacio East,6,42,0.2,#FAE38C,Bonifacio East
-KHI,7.1,77,0.2,#EAF195,KHI
-Bandar Malaysia,7.3,88,0.2,#C7E89E,Bandar Malaysia
-Thu Duc,8.1,60,0.2,#9CD6A4,Thu Duc
-OCT North,8.3,65,0.2,#6CC4A4,OCT North
-Nanchang VR,9,71,0.2,#4D9DB4,Nanchang VR
-TianAn,10.1,88,0.2,#4776B4,TianAn
+id,order,score,weight,color,region
+KIC,1.1,0,0.2,#9E0041,ASEAN
+Shanghai Taipingqiao,1.3,35,0.2,#9E0041,ASEAN
+Foshan Lingnan Tiandi,2,0,0.2,#9E0041,ASEAN
+Treasure Island,3,0,0.2,#9E0041,ASEAN
+Parkmerced,4,0,0.2,#C32F4B,Australia
+Berryessa BART,5,32,0.2,#F47245,Central Asia
+Nanchang VR,9,6,0.2,#4D9DB4,China
+TianAn,10.1,6,0.2,#4D9DB4,China
+Chengdu Aerotropolis,6,65,0.2,#4D9DB4,China
+Fuzhou Waterfront New City,7.1,69,0.2,#4D9DB4,China
+SHOT Line 14,7.3,73,0.2,#4D9DB4,China
+Tongren,8.1,38,0.2,#4D9DB4,China
+Nanjng Jiangbei,8.3,30,0.2,#4D9DB4,China
+Baoshan Nanda,9,13,0.2,#4D9DB4,China
+Shenzhen Futian,10.1,52,0.2,#4D9DB4,China
+Concord Base Reuse Project,10.3,50,0.2,#4D9DB4,China
+Point Molate Conceptual Master Plan,1.1,6,0.2,#4D9DB4,China
+Compton Artesia Station Specific Plan,1.3,6,0.2,#4D9DB4,China
+Cedar Creek Waterway,2,45,0.2,#4D9DB4,China
+Riverdale Park,3,6,0.2,#4D9DB4,China
+Capitol Crossing,4,6,0.2,#4D9DB4,China
+Downtown Colorado Springs,5,6,0.2,#4D9DB4,China
+Raleigh Civic Campus,6,6,0.2,#4D9DB4,China
+Seat Pleasant Smart City MP,7.1,6,0.2,#4D9DB4,China
+Charlotte 7th and Tryon,7.3,6,0.2,#4D9DB4,China
+Armed Forces Retirement Home,8.1,6,0.2,#4D9DB4,China
+Ignite Nashville,8.3,6,0.2,#4D9DB4,China
+Milano Sesto,9,55,0.2,#4776B4,Europe
+Neom,10.1,46,0.2,#4776B4,Europe
+Alaro City,10.3,56,0.2,#4776B4,Europe
+Tushino,1.1,68,0.2,#4776B4,Europe
+Jeddah Township,1.3,26,0.2,#F47245,MENA
+NDGM,2,1,0.2,#F47245,MENA
+King Salman Park,3,25,0.2,#F47245,MENA
+Tatu City CBD,4,21,0.2,#F47245,MENA
+Cook Cove,5,19,0.2,#F47245,MENA
+Bonifacio East,6,35,0.2,#F47245,MENA
+KHI,7.1,25,0.2,#F47245,MENA
+Bandar Malaysia,7.3,87,0.2,#5E4EA1,US
+Thu Duc,8.1,55,0.2,#5E4EA1,US
+OCT North,8.3,6,0.2,#5E4EA1,US
