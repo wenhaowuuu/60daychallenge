@@ -11,7 +11,8 @@ var tip = d3.tip()
   .attr('class', 'd3-tip')
   .offset([0, 0])
   .html(function(d) {
-    return d.data.label + ": <span style='color:orangered'>" + d.data.score + "</span>";
+    return d.data.label + ": <span style='color:orangered'>" + d.data.score + "</span>" +
+           "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>";
   });
 
 var arc = d3.svg.arc()
@@ -36,7 +37,7 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
 
   data.forEach(function(d) {
     d.id     =  d.id;
-    d.region  = +d.region;
+    d.region  = d.region;
     d.color  =  d.color;
     d.weight = +d.weight;
     d.score  = +d.score;
@@ -79,6 +80,24 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
     .attr("class", "aster-score")
     .attr("dy", ".35em")
     .attr("text-anchor", "middle") // text-align: right
-    .text(Math.round(score));
+    .text("CDP");
+    // .text(Math.round(score));
+
+    var legend = g.append("g")
+      .selectAll("g")
+      .data(data.columns.slice(1).reverse())
+      .enter().append("g")
+        .attr("transform", function(d, i) { return "translate(-40," + (i - (data.columns.length - 1) / 2) * 20 + ")"; });
+
+    legend.append("rect")
+        .attr("width", 18)
+        .attr("height", 18)
+        .attr("fill", z);
+
+    legend.append("text")
+        .attr("x", 24)
+        .attr("y", 9)
+        .attr("dy", "0.35em")
+        .text(function(d) { return d; });
 
 });

@@ -1,66 +1,42 @@
-Name,"LEED ND 
-PROJECT TOTAL SCORE",SOM Market Region
-KIC,0,ASEAN
-Shanghai Taipingqiao,35,ASEAN
-Foshan Lingnan Tiandi,0,ASEAN
-Treasure Island,0,ASEAN
-Parkmerced,0,Australia
-Berryessa BART,32,Central Asia
-Chengdu Aerotropolis,65,China
-Fuzhou Waterfront New City,69,China
-SHOT Line 14,73,China
-Tongren,38,China
-Nanjng Jiangbei,30,China
-Baoshan Nanda,13,China
-Shenzhen Futian,52,China
-Concord Base Reuse Project,50,China
-Point Molate Conceptual Master Plan,0,China
-Compton Artesia Station Specific Plan,0,China
-Cedar Creek Waterway,45,China
-Riverdale Park,0,China
-Capitol Crossing,0,China
-Downtown Colorado Springs,0,China
-Raleigh Civic Campus,0,China
-Seat Pleasant Smart City MP,0,China
-Charlotte 7th and Tryon,0,China
-Armed Forces Retirement Home,0,China
-Ignite Nashville,0,China
-Milano Sesto,55,Europe
-Neom,46,Europe
-Alaro City,56,Europe
-Tushino,68,Europe
-Jeddah Township,26,MENA
-NDGM,1,MENA
-King Salman Park,25,MENA
-Tatu City CBD,21,MENA
-Cook Cove,19,MENA
-Bonifacio East,35,MENA
-KHI,25,MENA
-Bandar Malaysia,87,US
-Thu Duc,55,US
-OCT North,0,US
-Nanchang VR,0,US
-TianAn,0,US
-,0,US
-,0,US
-,0,US
-,49,US
-,44,US
-,53,US
-,0,US
-,0,US
-,0,US
-,0,US
-,17,US
-,0,US
-,0,US
-,0,US
-,0,US
-,64,US
-,61,US
-,53,US
-,61,US
-,60,US
-,0,US
-,0,China
-,0,China
+Name,Regional Priority,Innovation & Design Process,Green Infrastructure & Buildings,Neighborhood Pattern & Design,Smart Location & Linkage
+KIC,0,5,10,32,18
+Shanghai Taipingqiao,0,5,9,33,22
+Foshan Lingnan Tiandi,0,6,16,29,22
+Treasure Island,4,5,20,36,22
+Parkmerced,4,0,0,0,4
+Berryessa BART,3,12,31,12,2
+Chengdu Aerotropolis,4,0,0,0,24
+Fuzhou Waterfront New City,1,12,0,0,16
+SHOT Line 14,2,0,12,0,7
+Tongren,3,67,0,12,7
+Nanjng Jiangbei,4,0,12,0,35
+Baoshan Nanda,4,6,6,0,3
+Shenzhen Futian,5,0,44,0,7
+Concord Base Reuse Project,6,21,0,23,16
+Point Molate Conceptual Master Plan,2,0,7,14,7
+Compton Artesia Station Specific Plan,33,7,0,0,35
+Cedar Creek Waterway,3,0,0,15,16
+Riverdale Park,5,8,32,0,7
+Capitol Crossing,12,0,0,0,56
+Downtown Colorado Springs,0,33,0,0,46
+Raleigh Civic Campus,4,8,8,0,16
+Seat Pleasant Smart City MP,0,8,0,12,44
+Charlotte 7th and Tryon,4,0,31,0,23
+Armed Forces Retirement Home,44,0,0,11,7
+Ignite Nashville,3,0,0,8,6
+Milano Sesto,0,0,34,8,15
+Neom,7,5,12,64,12
+Alaro City,8,0,0,0,0
+Tushino,33,23,0,34,23
+Jeddah Township,2,0,0,0,14
+NDGM,6,12,0,0,0
+King Salman Park,7,0,0,0,12
+Tatu City CBD,22,0,0,32,0
+Cook Cove,6,0,12,55,0
+Bonifacio East,7,0,0,0,0
+KHI,5,0,15,0,12
+Bandar Malaysia,11,12,12,0,0
+Thu Duc,22,0,0,25,13
+OCT North,0,0,0,0,0
+Nanchang VR,33,43,12,0,34
+TianAn,0,0,0,0,24
