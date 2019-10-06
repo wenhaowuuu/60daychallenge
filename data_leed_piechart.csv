@@ -1,65 +1,65 @@
 id,order,score,weight,color,label
-Bonifacio East,ASEAN,0,0.2,#9E0041,Bonifacio East
-KHI District 2,ASEAN,35,0.2,#9E0041,KHI District 2
-Bandar Malaysia,ASEAN,0,0.2,#9E0041,Bandar Malaysia
-Thu Duc,ASEAN,0,0.2,#9E0041,Thu Duc
-Cook Cove,Australia,0,0.2,#C32F4B,Cook Cove
-Turkistan,Central Asia,32,0.2,#F47245,Turkistan
-KIC,China,6,0.2,#4D9DB4,KIC
-Shanghai Xintiandi,China,6,0.2,#4D9DB4,Shanghai Xintiandi
-Foshan Tiandi,China,65,0.2,#4D9DB4,Foshan Tiandi
-Fuzhou CBD,China,69,0.2,#4D9DB4,Fuzhou CBD
-Nanjing Tongren,China,73,0.2,#4D9DB4,Nanjing Tongren
-Baoshan Nanda,China,38,0.2,#4D9DB4,Baoshan Nanda
-Wuhan Hanyang,China,30,0.2,#4D9DB4,Wuhan Hanyang
-Zhengzhou FinTech,China,13,0.2,#4D9DB4,Zhengzhou FinTech
-Xiong'An,China,52,0.2,#4D9DB4,Xiong'An
-Guangzhou Nansha,China,50,0.2,#4D9DB4,Guangzhou Nansha
-OCT North,China,6,0.2,#4D9DB4,OCT North
-Nanchang VR,China,6,0.2,#4D9DB4,Nanchang VR
-TianAn Caobao Road Shanghai,China,45,0.2,#4D9DB4,TianAn Caobao Road Shanghai
-Zhangjiang Science&Tech City,China,6,0.2,#4D9DB4,Zhangjiang Science&Tech City
-SHOT Line 14,China,6,0.2,#4D9DB4,SHOT Line 14
-Chengdu Aerotropolis Core Area (Partial),China,6,0.2,#4D9DB4,Chengdu Aerotropolis Core Area (Partial)
-City Balcony,China,6,0.2,#4D9DB4,City Balcony
-Liangjiang CBD,China,6,0.2,#4D9DB4,Liangjiang CBD
-Lize CBD,China,6,0.2,#4D9DB4,Lize CBD
-Wuhan Tiandi,China,6,0.2,#4D9DB4,Wuhan Tiandi
-Daming Lake,China,6,0.2,#4D9DB4,Daming Lake
-Milan Sesto,Europe,55,0.2,#4776B4,Milan Sesto
-Tushino,Europe,46,0.2,#4776B4,Tushino
-NCGM,Europe,56,0.2,#4776B4,NCGM
-Charenton,Europe,68,0.2,#4776B4,Charenton
-Al Furdha,MENA,26,0.2,#F47245,Al Furdha
-Lakeside,MENA,1,0.2,#F47245,Lakeside
-Neomina,MENA,25,0.2,#F47245,Neomina
-Alaro,MENA,21,0.2,#F47245,Alaro
-Jeddah Township,MENA,19,0.2,#F47245,Jeddah Township
-KSP,MENA,35,0.2,#F47245,KSP
-Tatu,MENA,25,0.2,#F47245,Tatu
-Treasure Island,US,87,0.2,#5E4EA1,Treasure Island
-Parkmerced,US,55,0.2,#5E4EA1,Parkmerced
-Berryessa BART,US,6,0.2,#5E4EA1,Berryessa BART
-Concord Base,US,6,0.2,#5E4EA1,Concord Base
-Cedar Creek,US,6,0.2,#5E4EA1,Cedar Creek
-Sunset,US,6,0.2,#5E4EA1,Sunset
-Olympia,US,55,0.2,#5E4EA1,Olympia
-The 78,US,46,0.2,#5E4EA1,The 78
-Lincoln Yards North,US,56,0.2,#5E4EA1,Lincoln Yards North
-Michael Reese,US,68,0.2,#5E4EA1,Michael Reese
-Chicago Lakeside,US,26,0.2,#5E4EA1,Chicago Lakeside
-AAS,US,1,0.2,#5E4EA1,AAS
-U of Delaware,US,25,0.2,#5E4EA1,U of Delaware
-Riverdale Park,US,21,0.2,#5E4EA1,Riverdale Park
-Capitol Crossing,US,19,0.2,#5E4EA1,Capitol Crossing
-Downtown Colorado Springs,US,6,0.2,#5E4EA1,Downtown Colorado Springs
-Raleigh Civic Campus,US,6,0.2,#5E4EA1,Raleigh Civic Campus
-Seat Pleasant Smart City MP,US,6,0.2,#5E4EA1,Seat Pleasant Smart City MP
-Charlotte 7th and Tryon,US,55,0.2,#5E4EA1,Charlotte 7th and Tryon
-Armed Forces Retirement Home,US,46,0.2,#5E4EA1,Armed Forces Retirement Home
-Ignite Nashville,US,56,0.2,#5E4EA1,Ignite Nashville
-Cornell Tech,US,68,0.2,#5E4EA1,Cornell Tech
-Denver Union,US,26,0.2,#5E4EA1,Denver Union
-Princeton - Lake,US,1,0.2,#5E4EA1,Princeton - Lake
-Hoboken Terminal,US,25,0.2,#5E4EA1,Hoboken Terminal
-30th St Station,US,21,0.2,#5E4EA1,30th St Station
+Bonifacio East,ASEAN,0,0.2,#C0392B,Bonifacio East
+KHI District 2,ASEAN,35,0.2,#C0392B,KHI District 2
+Bandar Malaysia,ASEAN,0,0.2,#C0392B,Bandar Malaysia
+Thu Duc,ASEAN,0,0.2,#C0392B,Thu Duc
+Cook Cove,Australia,0,0.2,#BB8FCE,Cook Cove
+Turkistan,Central Asia,32,0.2,#F7DC6F,Turkistan
+KIC,China,6,0.2,#E74C3C,KIC
+Shanghai Xintiandi,China,6,0.2,#E74C3C,Shanghai Xintiandi
+Foshan Tiandi,China,65,0.2,#E74C3C,Foshan Tiandi
+Fuzhou CBD,China,69,0.2,#E74C3C,Fuzhou CBD
+Nanjing Tongren,China,73,0.2,#E74C3C,Nanjing Tongren
+Baoshan Nanda,China,38,0.2,#E74C3C,Baoshan Nanda
+Wuhan Hanyang,China,30,0.2,#E74C3C,Wuhan Hanyang
+Zhengzhou FinTech,China,13,0.2,#E74C3C,Zhengzhou FinTech
+Xiong'An,China,52,0.2,#E74C3C,Xiong'An
+Guangzhou Nansha,China,50,0.2,#E74C3C,Guangzhou Nansha
+OCT North,China,6,0.2,#E74C3C,OCT North
+Nanchang VR,China,6,0.2,#E74C3C,Nanchang VR
+TianAn Caobao Road Shanghai,China,45,0.2,#E74C3C,TianAn Caobao Road Shanghai
+Zhangjiang Science&Tech City,China,6,0.2,#E74C3C,Zhangjiang Science&Tech City
+SHOT Line 14,China,6,0.2,#E74C3C,SHOT Line 14
+Chengdu Aerotropolis Core Area (Partial),China,6,0.2,#E74C3C,Chengdu Aerotropolis Core Area (Partial)
+City Balcony,China,6,0.2,#E74C3C,City Balcony
+Liangjiang CBD,China,6,0.2,#E74C3C,Liangjiang CBD
+Lize CBD,China,6,0.2,#E74C3C,Lize CBD
+Wuhan Tiandi,China,6,0.2,#E74C3C,Wuhan Tiandi
+Daming Lake,China,6,0.2,#E74C3C,Daming Lake
+Milan Sesto,Europe,55,0.2,#48C9B0,Milan Sesto
+Tushino,Europe,46,0.2,#48C9B0,Tushino
+NCGM,Europe,56,0.2,#48C9B0,NCGM
+Charenton,Europe,68,0.2,#48C9B0,Charenton
+Al Furdha,MENA,26,0.2,#F39C12,Al Furdha
+Lakeside,MENA,1,0.2,#F39C12,Lakeside
+Neomina,MENA,25,0.2,#F39C12,Neomina
+Alaro,MENA,21,0.2,#F39C12,Alaro
+Jeddah Township,MENA,19,0.2,#F39C12,Jeddah Township
+KSP,MENA,35,0.2,#F39C12,KSP
+Tatu,MENA,25,0.2,#F39C12,Tatu
+Treasure Island,US,87,0.2,#3498DB,Treasure Island
+Parkmerced,US,55,0.2,#3498DB,Parkmerced
+Berryessa BART,US,6,0.2,#3498DB,Berryessa BART
+Concord Base,US,6,0.2,#3498DB,Concord Base
+Cedar Creek,US,6,0.2,#3498DB,Cedar Creek
+Sunset,US,6,0.2,#3498DB,Sunset
+Olympia,US,55,0.2,#3498DB,Olympia
+The 78,US,46,0.2,#3498DB,The 78
+Lincoln Yards North,US,56,0.2,#3498DB,Lincoln Yards North
+Michael Reese,US,68,0.2,#3498DB,Michael Reese
+Chicago Lakeside,US,26,0.2,#3498DB,Chicago Lakeside
+AAS,US,1,0.2,#3498DB,AAS
+U of Delaware,US,25,0.2,#3498DB,U of Delaware
+Riverdale Park,US,21,0.2,#3498DB,Riverdale Park
+Capitol Crossing,US,19,0.2,#3498DB,Capitol Crossing
+Downtown Colorado Springs,US,6,0.2,#3498DB,Downtown Colorado Springs
+Raleigh Civic Campus,US,6,0.2,#3498DB,Raleigh Civic Campus
+Seat Pleasant Smart City MP,US,6,0.2,#3498DB,Seat Pleasant Smart City MP
+Charlotte 7th and Tryon,US,55,0.2,#3498DB,Charlotte 7th and Tryon
+Armed Forces Retirement Home,US,46,0.2,#3498DB,Armed Forces Retirement Home
+Ignite Nashville,US,56,0.2,#3498DB,Ignite Nashville
+Cornell Tech,US,68,0.2,#3498DB,Cornell Tech
+Denver Union,US,26,0.2,#3498DB,Denver Union
+Princeton - Lake,US,1,0.2,#3498DB,Princeton - Lake
+Hoboken Terminal,US,25,0.2,#3498DB,Hoboken Terminal
+30th St Station,US,21,0.2,#3498DB,30th St Station
