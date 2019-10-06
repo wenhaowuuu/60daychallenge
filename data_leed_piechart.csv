@@ -1,42 +1,65 @@
 id,order,score,weight,color,label
-KIC,1.1,0,0.2,#9E0041,KIC
-Shanghai Taipingqiao,1.3,35,0.2,#9E0041,Shanghai Taipingqiao
-Foshan Lingnan Tiandi,2,0,0.2,#9E0041,Foshan Lingnan Tiandi
-Treasure Island,3,0,0.2,#9E0041,Treasure Island
-Parkmerced,4,0,0.2,#C32F4B,Parkmerced
-Berryessa BART,5,32,0.2,#F47245,Berryessa BART
-Nanchang VR,9,6,0.2,#4D9DB4,Nanchang VR
-TianAn,10.1,6,0.2,#4D9DB4,TianAn
-Chengdu Aerotropolis,6,65,0.2,#4D9DB4,Chengdu Aerotropolis
-Fuzhou Waterfront New City,7.1,69,0.2,#4D9DB4,Fuzhou Waterfront New City
-SHOT Line 14,7.3,73,0.2,#4D9DB4,SHOT Line 14
-Tongren,8.1,38,0.2,#4D9DB4,Tongren
-Nanjng Jiangbei,8.3,30,0.2,#4D9DB4,Nanjng Jiangbei
-Baoshan Nanda,9,13,0.2,#4D9DB4,Baoshan Nanda
-Shenzhen Futian,10.1,52,0.2,#4D9DB4,Shenzhen Futian
-Concord Base Reuse Project,10.3,50,0.2,#4D9DB4,Concord Base Reuse Project
-Point Molate Conceptual Master Plan,1.1,6,0.2,#4D9DB4,Point Molate Conceptual Master Plan
-Compton Artesia Station Specific Plan,1.3,6,0.2,#4D9DB4,Compton Artesia Station Specific Plan
-Cedar Creek Waterway,2,45,0.2,#4D9DB4,Cedar Creek Waterway
-Riverdale Park,3,6,0.2,#4D9DB4,Riverdale Park
-Capitol Crossing,4,6,0.2,#4D9DB4,Capitol Crossing
-Downtown Colorado Springs,5,6,0.2,#4D9DB4,Downtown Colorado Springs
-Raleigh Civic Campus,6,6,0.2,#4D9DB4,Raleigh Civic Campus
-Seat Pleasant Smart City MP,7.1,6,0.2,#4D9DB4,Seat Pleasant Smart City MP
-Charlotte 7th and Tryon,7.3,6,0.2,#4D9DB4,Charlotte 7th and Tryon
-Armed Forces Retirement Home,8.1,6,0.2,#4D9DB4,Armed Forces Retirement Home
-Ignite Nashville,8.3,6,0.2,#4D9DB4,Ignite Nashville
-Milano Sesto,9,55,0.2,#4776B4,Milano Sesto
-Neom,10.1,46,0.2,#4776B4,Neom
-Alaro City,10.3,56,0.2,#4776B4,Alaro City
-Tushino,1.1,68,0.2,#4776B4,Tushino
-Jeddah Township,1.3,26,0.2,#F47245,Jeddah Township
-NDGM,2,1,0.2,#F47245,NDGM
-King Salman Park,3,25,0.2,#F47245,King Salman Park
-Tatu City CBD,4,21,0.2,#F47245,Tatu City CBD
-Cook Cove,5,19,0.2,#F47245,Cook Cove
-Bonifacio East,6,35,0.2,#F47245,Bonifacio East
-KHI,7.1,25,0.2,#F47245,KHI
-Bandar Malaysia,7.3,87,0.2,#5E4EA1,Bandar Malaysia
-Thu Duc,8.1,55,0.2,#5E4EA1,Thu Duc
-OCT North,8.3,6,0.2,#5E4EA1,OCT North
+Bonifacio East,1.1,0,0.2,#9E0041,Bonifacio East
+KHI District 2,1.3,35,0.2,#9E0041,KHI District 2
+Bandar Malaysia,2,0,0.2,#9E0041,Bandar Malaysia
+Thu Duc,3,0,0.2,#9E0041,Thu Duc
+Cook Cove,4,0,0.2,#C32F4B,Cook Cove
+Turkistan,5,32,0.2,#F47245,Turkistan
+KIC,9,6,0.2,#4D9DB4,KIC
+Shanghai Xintiandi,10.1,6,0.2,#4D9DB4,Shanghai Xintiandi
+Foshan Tiandi,6,65,0.2,#4D9DB4,Foshan Tiandi
+Fuzhou CBD,7.1,69,0.2,#4D9DB4,Fuzhou CBD
+Nanjing Tongren,7.3,73,0.2,#4D9DB4,Nanjing Tongren
+Baoshan Nanda,8.1,38,0.2,#4D9DB4,Baoshan Nanda
+Wuhan Hanyang,8.3,30,0.2,#4D9DB4,Wuhan Hanyang
+Zhengzhou FinTech,9,13,0.2,#4D9DB4,Zhengzhou FinTech
+Xiong'An,10.1,52,0.2,#4D9DB4,Xiong'An
+Guangzhou Nansha,10.3,50,0.2,#4D9DB4,Guangzhou Nansha
+OCT North,1.1,6,0.2,#4D9DB4,OCT North
+Nanchang VR,1.3,6,0.2,#4D9DB4,Nanchang VR
+TianAn Caobao Road Shanghai,2,45,0.2,#4D9DB4,TianAn Caobao Road Shanghai
+Zhangjiang Science&Tech City,3,6,0.2,#4D9DB4,Zhangjiang Science&Tech City
+SHOT Line 14,4,6,0.2,#4D9DB4,SHOT Line 14
+Chengdu Aerotropolis Core Area (Partial),5,6,0.2,#4D9DB4,Chengdu Aerotropolis Core Area (Partial)
+City Balcony,6,6,0.2,#4D9DB4,City Balcony
+Liangjiang CBD,7.1,6,0.2,#4D9DB4,Liangjiang CBD
+Lize CBD,7.3,6,0.2,#4D9DB4,Lize CBD
+Wuhan Tiandi,8.1,6,0.2,#4D9DB4,Wuhan Tiandi
+Daming Lake,8.3,6,0.2,#4D9DB4,Daming Lake
+Milan Sesto,9,55,0.2,#4776B4,Milan Sesto
+Tushino,10.1,46,0.2,#4776B4,Tushino
+NCGM,10.3,56,0.2,#4776B4,NCGM
+Charenton,1.1,68,0.2,#4776B4,Charenton
+Al Furdha,1.3,26,0.2,#F47245,Al Furdha
+Lakeside,2,1,0.2,#F47245,Lakeside
+Neomina,3,25,0.2,#F47245,Neomina
+Alaro,4,21,0.2,#F47245,Alaro
+Jeddah Township,5,19,0.2,#F47245,Jeddah Township
+KSP,6,35,0.2,#F47245,KSP
+Tatu,7.1,25,0.2,#F47245,Tatu
+Treasure Island,7.3,87,0.2,#5E4EA1,Treasure Island
+Parkmerced,8.1,55,0.2,#5E4EA1,Parkmerced
+Berryessa BART,8.3,6,0.2,#5E4EA1,Berryessa BART
+Concord Base,1.1,6,0.2,#5E4EA1,Concord Base
+Cedar Creek,1.3,6,0.2,#5E4EA1,Cedar Creek
+Sunset,2,6,0.2,#5E4EA1,Sunset
+Olympia,3,55,0.2,#5E4EA1,Olympia
+The 78,4,46,0.2,#5E4EA1,The 78
+Lincoln Yards North,5,56,0.2,#5E4EA1,Lincoln Yards North
+Michael Reese,9,68,0.2,#5E4EA1,Michael Reese
+Chicago Lakeside,10.1,26,0.2,#5E4EA1,Chicago Lakeside
+AAS,6,1,0.2,#5E4EA1,AAS
+U of Delaware,7.1,25,0.2,#5E4EA1,U of Delaware
+Riverdale Park,7.3,21,0.2,#5E4EA1,Riverdale Park
+Capitol Crossing,8.1,19,0.2,#5E4EA1,Capitol Crossing
+Downtown Colorado Springs,8.3,6,0.2,#5E4EA1,Downtown Colorado Springs
+Raleigh Civic Campus,9,6,0.2,#5E4EA1,Raleigh Civic Campus
+Seat Pleasant Smart City MP,10.1,6,0.2,#5E4EA1,Seat Pleasant Smart City MP
+Charlotte 7th and Tryon,10.3,55,0.2,#5E4EA1,Charlotte 7th and Tryon
+Armed Forces Retirement Home,1.1,46,0.2,#5E4EA1,Armed Forces Retirement Home
+Ignite Nashville,1.3,56,0.2,#5E4EA1,Ignite Nashville
+Cornell Tech,2,68,0.2,#5E4EA1,Cornell Tech
+Denver Union,3,26,0.2,#5E4EA1,Denver Union
+Princeton - Lake,4,1,0.2,#5E4EA1,Princeton - Lake
+Hoboken Terminal,5,25,0.2,#5E4EA1,Hoboken Terminal
+30th St Station,6,21,0.2,#5E4EA1,30th St Station
