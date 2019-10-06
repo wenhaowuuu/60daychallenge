@@ -36,7 +36,7 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
 
   data.forEach(function(d) {
     d.id     =  d.id;
-    d.order  = +d.order;
+    d.region  = +d.region;
     d.color  =  d.color;
     d.weight = +d.weight;
     d.score  = +d.score;

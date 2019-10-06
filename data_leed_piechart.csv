@@ -1,4 +1,4 @@
-id,order,score,weight,color,label
+id,region,score,weight,color,label
 Bonifacio East,ASEAN,0,0.2,#C0392B,Bonifacio East
 KHI District 2,ASEAN,35,0.2,#C0392B,KHI District 2
 Bandar Malaysia,ASEAN,0,0.2,#C0392B,Bandar Malaysia
