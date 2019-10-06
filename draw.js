@@ -14,8 +14,9 @@ var tip = d3.tip()
     return d.data.label + ": <span style='color:orangered'>" + d.data.score + "</span>" +
            "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>" +
            "<br> Climate Type" + ": <span style='color:lightgreen'>" + d.data.climate_type + "</span>";
-           // "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>" +
-           // "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>" +;
+           "<br> Land Area" + ": <span style='color:grey'>" + d.data.area + "</span>" +
+           "<br> GFA" + ": <span style='color:yellow'>" + d.data.GFA + " " + "sqm </span>" +
+           "<br> FAR" + ": <span style='color:pink'>" + d.data.FAR + "</span>";
   });
 
 var arc = d3.svg.arc()
