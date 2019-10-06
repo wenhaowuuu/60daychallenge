@@ -48,7 +48,7 @@ var svg = d3.select("svg"),
 
 
     d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_leed_region.csv", function(d, i, columns) {
-      for (i = 1, t = 0; i < 2; ++i) t += d[columns[i]] = +d[columns[i]];
+      for (i = 1, t = 0; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]];
       d.total = t;
       return d;
     }, function(error, data) {
