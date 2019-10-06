@@ -13,7 +13,7 @@ var tip = d3.tip()
   .html(function(d) {
     return d.data.label + ": <span style='color:orangered'>" + d.data.score + "</span>" +
            "<br> Market Region" + ": <span style='color:lightblue'>" + d.data.region + "</span>" +
-           "<br> Climate Type" + ": <span style='color:lightgreen'>" + d.data.climate_type + "</span>";
+           "<br> Climate Type" + ": <span style='color:lightgreen'>" + d.data.climate_type + "</span>" +
            "<br> Land Area" + ": <span style='color:grey'>" + d.data.area + "</span>" +
            "<br> GFA" + ": <span style='color:yellow'>" + d.data.GFA + " " + "sqm </span>" +
            "<br> FAR" + ": <span style='color:pink'>" + d.data.FAR + "</span>";
@@ -111,21 +111,21 @@ d3.csv("https://raw.githubusercontent.com/wenhaowuuu/60daychallenge/master/data_
     .text("CDP");
     // .text(Math.round(score));
 
-    var legend = g.append("g")
-      .selectAll("g")
-      .data(data.columns.slice(1).reverse())
-      .enter().append("g")
-        .attr("transform", function(d, i) { return "translate(-40," + (i - (data.columns.length - 1) / 2) * 20 + ")"; });
-
-    legend.append("rect")
-        .attr("width", 18)
-        .attr("height", 18)
-        .attr("fill", z);
-
-    legend.append("text")
-        .attr("x", 24)
-        .attr("y", 9)
-        .attr("dy", "0.35em")
-        .text(function(d) { return d; });
+    // var legend = g.append("g")
+    //   .selectAll("g")
+    //   .data(data.columns.slice(1).reverse())
+    //   .enter().append("g")
+    //     .attr("transform", function(d, i) { return "translate(-40," + (i - (data.columns.length - 1) / 2) * 20 + ")"; });
+    //
+    // legend.append("rect")
+    //     .attr("width", 18)
+    //     .attr("height", 18)
+    //     .attr("fill", z);
+    //
+    // legend.append("text")
+    //     .attr("x", 24)
+    //     .attr("y", 9)
+    //     .attr("dy", "0.35em")
+    //     .text(function(d) { return d; });
 
 });
